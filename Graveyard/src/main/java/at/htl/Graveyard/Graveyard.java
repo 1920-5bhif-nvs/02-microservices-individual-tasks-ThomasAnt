@@ -13,7 +13,7 @@ import javax.json.JsonArray;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-@Path("/grave")
+@Path("/graveyards")
 public class Graveyard {
     @Inject
     @RestClient
